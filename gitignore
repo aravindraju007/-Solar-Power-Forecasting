@@ -1,0 +1,22 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Data files
+data/processed/
+models/
+reports/model_predictions.csv
+reports/model_residuals.csv
+
+# Streamlit
+.streamlit/

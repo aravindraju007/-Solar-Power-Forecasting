@@ -1,0 +1,16 @@
+name: solar-forecast-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - streamlit
+  - joblib
+  - pip
+  - pip:
+    - openpyxl
